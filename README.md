@@ -1,5 +1,7 @@
 #ez-survey-xls-to-xml
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/ez-survey-xls-to-xml.svg)](https://greenkeeper.io/)
+
 Node script for converting .xls files from eZ Survey to xml-files
 
 ##Installation
